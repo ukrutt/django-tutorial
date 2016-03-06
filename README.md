@@ -13,3 +13,8 @@ Then go through tutorial at
 ```
 % open https://docs.djangoproject.com/en/1.9/intro/tutorial01/
 ```
+To start the server:
+```
+% cd ./python/mysite
+% python manage.py runserver
+```
